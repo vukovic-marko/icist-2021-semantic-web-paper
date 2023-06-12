@@ -9,7 +9,9 @@ Project: Tackling the Complexities of Legal System(s) Using Artificial Intellige
 The paper details an approach to publish legal documents in a distributed manner without impairing the possibility to use a single point for its retrieval and browsing and to improve the retrieval and browsing of said documents by linking it with other data published on the semantic web.  
 
 Paper: [Paper]
-Code: [GitHub]  
+<br />
+Code: [GitHub]
+<br />
 ResearchGate: [ResearchGate]
 
 [Paper]: https://www.eventiotic.com/eventiotic/library/paper/649

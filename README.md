@@ -2,7 +2,7 @@
 ## SEMANTIC WEB 
 
 March 2021  
-Conference: The 11th International Conference on Information Society, Technology and Management (ICIST 2021) at Kopaonik  
+Conference: The 11th International Conference on Information Society, Technology and Management (ICIST 2021) in Kopaonik  
 Authors: Marko Vuković, Filip Jakovljević, Marko Marković, Stevan Gostojić  
 Project: Tackling the Complexities of Legal System(s) Using Artificial Intelligence Methods and Tools (AI4Law)  
 
